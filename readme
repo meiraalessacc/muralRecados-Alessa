@@ -1,0 +1,30 @@
+# 📌 Mural de Recados
+
+Projeto desenvolvido por mim como atividade avaliativa do curso **Programador Web do SENAI**.  
+O sistema funciona como um **mural de mensagens**, onde os usuários podem deixar recados para que outras pessoas visualizem.
+
+## Sobre o projeto
+
+O **Mural de Recados** é uma aplicação web simples que permite:
+
+- Adicionar novos recados
+- Visualizar todos os recados publicados
+- Editar mensagens existentes
+- Excluir recados
+
+As mensagens ficam armazenadas em um **banco de dados MySQL**, permitindo que sejam recuperadas sempre que a página for carregada.
+
+Este projeto foi criado com o objetivo de praticar conceitos de **desenvolvimento web com PHP e banco de dados**.
+
+## 💻 Tecnologias utilizadas
+
+- HTML5  
+- CSS3  
+- PHP  
+- MySQL  
+- Google Fonts
+
+👩‍💻 Autora
+
+Projeto desenvolvido por Alessa Meira
+Curso Programador Web - SENAI
